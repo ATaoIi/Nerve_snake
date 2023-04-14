@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\licha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\licha\\.nuget\\packages"
+    ]
+  }
+}
